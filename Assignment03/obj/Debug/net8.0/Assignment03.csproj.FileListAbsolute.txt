@@ -1,0 +1,14 @@
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\obj\Debug\net8.0\Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\obj\Debug\net8.0\Assignment03.AssemblyInfoInputs.cache
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\obj\Debug\net8.0\Assignment03.AssemblyInfo.cs
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\obj\Debug\net8.0\Assignment03.csproj.CoreCompileInputs.cache
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\bin\Debug\net8.0\Assignment03.exe
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\bin\Debug\net8.0\Assignment03.deps.json
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\bin\Debug\net8.0\Assignment03.runtimeconfig.json
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\bin\Debug\net8.0\Assignment03.dll
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\bin\Debug\net8.0\Assignment03.pdb
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\obj\Debug\net8.0\Assignment03.dll
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\obj\Debug\net8.0\refint\Assignment03.dll
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\obj\Debug\net8.0\Assignment03.pdb
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\obj\Debug\net8.0\Assignment03.genruntimeconfig.cache
+D:\Backend\Assignment\Assignment C#\Assignment C#03\Assignment03\Solution1\Assignment03\obj\Debug\net8.0\ref\Assignment03.dll
