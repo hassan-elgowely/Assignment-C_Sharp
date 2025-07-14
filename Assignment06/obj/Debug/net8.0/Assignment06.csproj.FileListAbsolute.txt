@@ -1,0 +1,14 @@
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\bin\Debug\net8.0\Assignment06.exe
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\bin\Debug\net8.0\Assignment06.deps.json
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\bin\Debug\net8.0\Assignment06.runtimeconfig.json
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\bin\Debug\net8.0\Assignment06.dll
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\bin\Debug\net8.0\Assignment06.pdb
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\obj\Debug\net8.0\Assignment06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\obj\Debug\net8.0\Assignment06.AssemblyInfoInputs.cache
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\obj\Debug\net8.0\Assignment06.AssemblyInfo.cs
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\obj\Debug\net8.0\Assignment06.csproj.CoreCompileInputs.cache
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\obj\Debug\net8.0\Assignment06.dll
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\obj\Debug\net8.0\refint\Assignment06.dll
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\obj\Debug\net8.0\Assignment06.pdb
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\obj\Debug\net8.0\Assignment06.genruntimeconfig.cache
+D:\Backend\Assignment\Assignment C#\Assignment C#06\Assignment06\Assignment06\Assignment06\obj\Debug\net8.0\ref\Assignment06.dll
