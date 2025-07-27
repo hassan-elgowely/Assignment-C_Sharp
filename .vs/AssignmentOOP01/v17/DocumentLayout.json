@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#01\\assignment oop 01\\assignmentoop01\\assignmentoop01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|solutionrelative:assignmentoop01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#01\\assignment oop 01\\assignmentoop01\\assignmentoop01\\employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|solutionrelative:assignmentoop01\\employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#01\\assignment oop 01\\assignmentoop01\\assignmentoop01\\employee\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|solutionrelative:assignmentoop01\\employee\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#01\\assignment oop 01\\assignmentoop01\\assignmentoop01\\employee\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|solutionrelative:assignmentoop01\\employee\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#01\\assignment oop 01\\assignmentoop01\\assignmentoop01\\personq7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|solutionrelative:assignmentoop01\\personq7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#01\\assignment oop 01\\assignmentoop01\\assignmentoop01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|solutionrelative:assignmentoop01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#01\\assignment oop 01\\assignmentoop01\\assignmentoop01\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|solutionrelative:assignmentoop01\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#01\\assignment oop 01\\assignmentoop01\\assignmentoop01\\enumcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FC60C7-DB36-4252-B81A-BF01E326E61B}|AssignmentOOP01\\AssignmentOOP01.csproj|solutionrelative:assignmentoop01\\enumcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Employee\\Enums.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP01\\Employee\\Enums.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Employee\\Enums.cs",
+              "RelativeToolTip": "AssignmentOOP01\\Employee\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:59:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HiringDate.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Employee\\HiringDate.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP01\\Employee\\HiringDate.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Employee\\HiringDate.cs",
+              "RelativeToolTip": "AssignmentOOP01\\Employee\\HiringDate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:56:34.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Employee\\Employee.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP01\\Employee\\Employee.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Employee\\Employee.cs",
+              "RelativeToolTip": "AssignmentOOP01\\Employee\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:53:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonQ7.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\PersonQ7.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP01\\PersonQ7.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\PersonQ7.cs",
+              "RelativeToolTip": "AssignmentOOP01\\PersonQ7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T00:28:51.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Point.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP01\\Point.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Point.cs",
+              "RelativeToolTip": "AssignmentOOP01\\Point.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T23:40:52.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Person.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP01\\Person.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Person.cs",
+              "RelativeToolTip": "AssignmentOOP01\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:19:28.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnumCollection.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\EnumCollection.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP01\\EnumCollection.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\EnumCollection.cs",
+              "RelativeToolTip": "AssignmentOOP01\\EnumCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:12:22.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP01\\Program.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#01\\Assignment OOP 01\\AssignmentOOP01\\AssignmentOOP01\\Program.cs",
+              "RelativeToolTip": "AssignmentOOP01\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wL8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:11:57.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
