@@ -1,0 +1,11 @@
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\bin\Debug\net8.0\Point.deps.json
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\bin\Debug\net8.0\Point.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\bin\Debug\net8.0\Point.pdb
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\obj\Debug\net8.0\Point.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\obj\Debug\net8.0\Point.AssemblyInfoInputs.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\obj\Debug\net8.0\Point.AssemblyInfo.cs
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\obj\Debug\net8.0\Point.csproj.CoreCompileInputs.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\obj\Debug\net8.0\Point.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\obj\Debug\net8.0\refint\Point.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\obj\Debug\net8.0\Point.pdb
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Point\obj\Debug\net8.0\ref\Point.dll

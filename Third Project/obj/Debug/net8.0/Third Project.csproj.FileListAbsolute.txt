@@ -1,0 +1,11 @@
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\bin\Debug\net8.0\Third Project.deps.json
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\bin\Debug\net8.0\Third Project.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\bin\Debug\net8.0\Third Project.pdb
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\obj\Debug\net8.0\Third Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\obj\Debug\net8.0\Third Project.AssemblyInfoInputs.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\obj\Debug\net8.0\Third Project.AssemblyInfo.cs
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\obj\Debug\net8.0\Third Project.csproj.CoreCompileInputs.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\obj\Debug\net8.0\Third Project.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\obj\Debug\net8.0\refint\Third Project.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\obj\Debug\net8.0\Third Project.pdb
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\Third Project\obj\Debug\net8.0\ref\Third Project.dll

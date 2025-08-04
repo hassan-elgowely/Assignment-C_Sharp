@@ -1,0 +1,22 @@
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\AssignmentOOP02.exe
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\AssignmentOOP02.deps.json
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\AssignmentOOP02.runtimeconfig.json
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\AssignmentOOP02.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\AssignmentOOP02.pdb
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.csproj.AssemblyReference.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.AssemblyInfoInputs.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.AssemblyInfo.cs
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.csproj.CoreCompileInputs.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\Assignme.0EA64FCC.Up2Date
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\refint\AssignmentOOP02.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.pdb
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.genruntimeconfig.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\ref\AssignmentOOP02.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\First Project.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\First Project.pdb
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\Second Project.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\Second Project.pdb
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\Third Project.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#02\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\Third Project.pdb
