@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 03\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 03\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 03\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 03\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 03\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 03\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 03\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 03\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 02\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 02\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 02\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 02\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 01\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 01\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 01\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 01\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 01\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 01\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 01\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 01\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|d:\\backend\\assignment\\assignment c#\\c# oop\\assignment c#03\\assignment oop 02\\assignmentoop02\\assignmentoop02\\question 01\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B82CF08-CB16-438E-924D-05A8CE8FD1A4}|AssignmentOOP02\\AssignmentOOP02.csproj|solutionrelative:assignmentoop02\\question 01\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PushNotificationService.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 03\\PushNotificationService.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 03\\PushNotificationService.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 03\\PushNotificationService.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 03\\PushNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:47:02.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmsNotificationService.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 03\\SmsNotificationService.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 03\\SmsNotificationService.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 03\\SmsNotificationService.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 03\\SmsNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:46:38.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 03\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 03\\EmailNotificationService.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 03\\EmailNotificationService.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 03\\EmailNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:46:12.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 03\\INotificationService.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 03\\INotificationService.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 03\\INotificationService.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 03\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:42:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 02\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 02\\AuthenticationService.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 02\\AuthenticationService.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 02\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:39:46.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 02\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 02\\IAuthenticationService.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 02\\IAuthenticationService.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 02\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:37:24.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 01\\Rectangle.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 01\\Rectangle.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 01\\Rectangle.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 01\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:10:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 01\\Circle.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 01\\Circle.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 01\\Circle.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 01\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:05:38.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRectangle.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 01\\IRectangle.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 01\\IRectangle.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 01\\IRectangle.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 01\\IRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:04:12.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICircle.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 01\\ICircle.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 01\\ICircle.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 01\\ICircle.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 01\\ICircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:03:25.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 01\\IShape.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Question 01\\IShape.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Question 01\\IShape.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Question 01\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:01:29.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentOOP02\\Program.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\Assignment C#\\C# OOP\\Assignment C#03\\Assignment OOP 02\\AssignmentOOP02\\AssignmentOOP02\\Program.cs",
+              "RelativeToolTip": "AssignmentOOP02\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T20:56:54.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

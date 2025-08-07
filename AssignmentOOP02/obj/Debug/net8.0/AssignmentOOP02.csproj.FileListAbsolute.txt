@@ -1,0 +1,14 @@
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\AssignmentOOP02.exe
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\AssignmentOOP02.deps.json
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\AssignmentOOP02.runtimeconfig.json
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\AssignmentOOP02.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\bin\Debug\net8.0\AssignmentOOP02.pdb
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.AssemblyInfoInputs.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.AssemblyInfo.cs
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.csproj.CoreCompileInputs.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\refint\AssignmentOOP02.dll
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.pdb
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\AssignmentOOP02.genruntimeconfig.cache
+D:\Backend\Assignment\Assignment C#\C# OOP\Assignment C#03\Assignment OOP 02\AssignmentOOP02\AssignmentOOP02\obj\Debug\net8.0\ref\AssignmentOOP02.dll
