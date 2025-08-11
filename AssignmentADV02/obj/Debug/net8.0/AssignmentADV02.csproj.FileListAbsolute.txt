@@ -1,0 +1,14 @@
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\bin\Debug\net8.0\AssignmentADV02.exe
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\bin\Debug\net8.0\AssignmentADV02.deps.json
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\bin\Debug\net8.0\AssignmentADV02.runtimeconfig.json
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\bin\Debug\net8.0\AssignmentADV02.dll
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\bin\Debug\net8.0\AssignmentADV02.pdb
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\obj\Debug\net8.0\AssignmentADV02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\obj\Debug\net8.0\AssignmentADV02.AssemblyInfoInputs.cache
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\obj\Debug\net8.0\AssignmentADV02.AssemblyInfo.cs
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\obj\Debug\net8.0\AssignmentADV02.csproj.CoreCompileInputs.cache
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\obj\Debug\net8.0\AssignmentADV02.dll
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\obj\Debug\net8.0\refint\AssignmentADV02.dll
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\obj\Debug\net8.0\AssignmentADV02.pdb
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\obj\Debug\net8.0\AssignmentADV02.genruntimeconfig.cache
+D:\Backend\Assignment\Assignment C#\03 C# Advanced\Assignment C# ADV 02\Assignment ADV 02\AssignmentADV02\AssignmentADV02\obj\Debug\net8.0\ref\AssignmentADV02.dll
