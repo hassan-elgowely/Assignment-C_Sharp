@@ -1,0 +1,14 @@
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\bin\Debug\net8.0\Examination_system.exe
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\bin\Debug\net8.0\Examination_system.deps.json
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\bin\Debug\net8.0\Examination_system.runtimeconfig.json
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\bin\Debug\net8.0\Examination_system.dll
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\bin\Debug\net8.0\Examination_system.pdb
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\obj\Debug\net8.0\Examination_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\obj\Debug\net8.0\Examination_system.AssemblyInfoInputs.cache
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\obj\Debug\net8.0\Examination_system.AssemblyInfo.cs
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\obj\Debug\net8.0\Examination_system.csproj.CoreCompileInputs.cache
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\obj\Debug\net8.0\Examination_system.dll
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\obj\Debug\net8.0\refint\Examination_system.dll
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\obj\Debug\net8.0\Examination_system.pdb
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\obj\Debug\net8.0\Examination_system.genruntimeconfig.cache
+D:\Backend\Assignment\02 Assignment C#\C# EXAM 02\C# EXAM\EXAM02\Examination_system\obj\Debug\net8.0\ref\Examination_system.dll
