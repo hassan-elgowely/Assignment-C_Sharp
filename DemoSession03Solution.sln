@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPL", "DemoPL\DemoPL.csproj", "{FF0A3E02-DCFD-4162-9600-0AA36DBE1675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDAL", "DemoDAL\DemoDAL.csproj", "{00B7AE73-AD62-43EA-9AD0-1056E7D5F98C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBLL", "DemoBLL\DemoBLL.csproj", "{D8487678-CDD7-4E29-8C37-40D548E37CB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0A3E02-DCFD-4162-9600-0AA36DBE1675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0A3E02-DCFD-4162-9600-0AA36DBE1675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0A3E02-DCFD-4162-9600-0AA36DBE1675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0A3E02-DCFD-4162-9600-0AA36DBE1675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B7AE73-AD62-43EA-9AD0-1056E7D5F98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B7AE73-AD62-43EA-9AD0-1056E7D5F98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B7AE73-AD62-43EA-9AD0-1056E7D5F98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B7AE73-AD62-43EA-9AD0-1056E7D5F98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8487678-CDD7-4E29-8C37-40D548E37CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8487678-CDD7-4E29-8C37-40D548E37CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8487678-CDD7-4E29-8C37-40D548E37CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8487678-CDD7-4E29-8C37-40D548E37CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0304579-4B8F-45BA-89B3-5455CD2610B3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\bin\Debug\net8.0\DemoDAL.deps.json
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\bin\Debug\net8.0\DemoDAL.dll
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\bin\Debug\net8.0\DemoDAL.pdb
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\obj\Debug\net8.0\DemoDAL.csproj.AssemblyReference.cache
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\obj\Debug\net8.0\DemoDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\obj\Debug\net8.0\DemoDAL.AssemblyInfoInputs.cache
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\obj\Debug\net8.0\DemoDAL.AssemblyInfo.cs
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\obj\Debug\net8.0\DemoDAL.csproj.CoreCompileInputs.cache
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\obj\Debug\net8.0\DemoDAL.dll
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\obj\Debug\net8.0\refint\DemoDAL.dll
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\obj\Debug\net8.0\DemoDAL.pdb
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session03\DemoSession03Solution\DemoDAL\obj\Debug\net8.0\ref\DemoDAL.dll
