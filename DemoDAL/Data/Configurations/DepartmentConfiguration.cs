@@ -1,0 +1,16 @@
+﻿
+
+namespace DemoDAL.Data.Configurations
+{
+    internal class DepartmentConfiguration : IEntityTypeConfiguration<Department>
+    {
+        public void Configure(EntityTypeBuilder<Department> builder)
+        {
+            builder.Property(p => p.Id).UseIdentityColumn(10, 10);
+            builder.Property(p => p.Name).HasColumnType("varchar(25)");
+            builder.Property(p => p.Code).HasColumnType("varchar(25)");
+            builder.Property(p => p.CreatedOn).HasDefaultValueSql("GetDate()");
+            builder.Property(p => p.ModifiedOn).HasComputedColumnSql("GetDate()");
+        }
+    }
+}
