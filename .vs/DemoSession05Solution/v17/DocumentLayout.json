@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\viewmodels\\departmentviewmodel\\updatedepartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\viewmodels\\departmentviewmodel\\updatedepartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demobll\\services\\classes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|solutionrelative:demobll\\services\\classes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demodal\\repositories\\classes\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|solutionrelative:demodal\\repositories\\classes\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demodal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|solutionrelative:demodal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demobll\\dtos\\departmentmodule\\getalllldepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|solutionrelative:demobll\\dtos\\departmentmodule\\getalllldepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demobll\\dtos\\departmentmodule\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|solutionrelative:demobll\\dtos\\departmentmodule\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demobll\\dtos\\departmentmodule\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|solutionrelative:demobll\\dtos\\departmentmodule\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demobll\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|solutionrelative:demobll\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demodal\\data\\migrations\\20251014130022_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|solutionrelative:demodal\\data\\migrations\\20251014130022_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demopl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C4ED362-A178-4C3C-9C2C-A2A2103E05D1}|DemoPL\\DemoPL.csproj|solutionrelative:demopl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demobll\\factories\\departmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|solutionrelative:demobll\\factories\\departmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demobll\\dtos\\departmentmodule\\getdepartmentbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF4946F-6187-45BE-B39C-DDB912733B88}|DemoBLL\\DemoBLL.csproj|solutionrelative:demobll\\dtos\\departmentmodule\\getdepartmentbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demodal\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|solutionrelative:demodal\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demodal\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|solutionrelative:demodal\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demodal\\data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|solutionrelative:demodal\\data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demodal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|solutionrelative:demodal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|d:\\backend\\assignment\\05 asp .net core mvc\\demo\\session05\\demosession05solution\\demodal\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE09843-17A3-45E1-913B-3A6C3E45B765}|DemoDAL\\DemoDAL.csproj|solutionrelative:demodal\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DemoPL\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "DemoPL\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T08:26:34.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateDepartmentViewModel.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\ViewModels\\DepartmentViewModel\\UpdateDepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "DemoPL\\ViewModels\\DepartmentViewModel\\UpdateDepartmentViewModel.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\ViewModels\\DepartmentViewModel\\UpdateDepartmentViewModel.cs",
+              "RelativeToolTip": "DemoPL\\ViewModels\\DepartmentViewModel\\UpdateDepartmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:07:07.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DemoPL\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "DemoPL\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T08:06:07.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "DemoPL\\Views\\Department\\Details.cshtml",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "DemoPL\\Views\\Department\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T11:48:03.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoPL\\Views\\Department\\Create.cshtml",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "DemoPL\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T14:48:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251014130022_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Data\\Migrations\\20251014130022_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DemoDAL\\Data\\Migrations\\20251014130022_InitialCreate.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Data\\Migrations\\20251014130022_InitialCreate.cs",
+              "RelativeToolTip": "DemoDAL\\Data\\Migrations\\20251014130022_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:00:22.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DemoPL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DemoPL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T12:32:04.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoPL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoPL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T12:26:30.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoPL\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "DemoPL\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T12:26:11.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "DemoPL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "DemoPL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwIIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:10:25.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\Services\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "DemoBLL\\Services\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\Services\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "DemoBLL\\Services\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:07:32.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateDepartmentDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\DTOS\\DepartmentModule\\UpdateDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "DemoBLL\\DTOS\\DepartmentModule\\UpdateDepartmentDTO.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\DTOS\\DepartmentModule\\UpdateDepartmentDTO.cs",
+              "RelativeToolTip": "DemoBLL\\DTOS\\DepartmentModule\\UpdateDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:57:01.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddDepartmentDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\DTOS\\DepartmentModule\\AddDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "DemoBLL\\DTOS\\DepartmentModule\\AddDepartmentDTO.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\DTOS\\DepartmentModule\\AddDepartmentDTO.cs",
+              "RelativeToolTip": "DemoBLL\\DTOS\\DepartmentModule\\AddDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:47:41.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetDepartmentByIdDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\DTOS\\DepartmentModule\\GetDepartmentByIdDTO.cs",
+              "RelativeDocumentMoniker": "DemoBLL\\DTOS\\DepartmentModule\\GetDepartmentByIdDTO.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\DTOS\\DepartmentModule\\GetDepartmentByIdDTO.cs",
+              "RelativeToolTip": "DemoBLL\\DTOS\\DepartmentModule\\GetDepartmentByIdDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:27:58.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepartmentFactory.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\Factories\\DepartmentFactory.cs",
+              "RelativeDocumentMoniker": "DemoBLL\\Factories\\DepartmentFactory.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\Factories\\DepartmentFactory.cs",
+              "RelativeToolTip": "DemoBLL\\Factories\\DepartmentFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:16:50.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllllDepartmentDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\DTOS\\DepartmentModule\\GetAllllDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "DemoBLL\\DTOS\\DepartmentModule\\GetAllllDepartmentDTO.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\DTOS\\DepartmentModule\\GetAllllDepartmentDTO.cs",
+              "RelativeToolTip": "DemoBLL\\DTOS\\DepartmentModule\\GetAllllDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:14:15.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\Services\\Classes\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "DemoBLL\\Services\\Classes\\DepartmentService.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoBLL\\Services\\Classes\\DepartmentService.cs",
+              "RelativeToolTip": "DemoBLL\\Services\\Classes\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:09:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DemoDAL\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "DemoDAL\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:04:36.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Program.cs",
+              "RelativeDocumentMoniker": "DemoPL\\Program.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\Program.cs",
+              "RelativeToolTip": "DemoPL\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:44:57.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "DemoDAL\\GlobalUsings.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\GlobalUsings.cs",
+              "RelativeToolTip": "DemoDAL\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:38:45.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Repositories\\Classes\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DemoDAL\\Repositories\\Classes\\DepartmentRepository.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Repositories\\Classes\\DepartmentRepository.cs",
+              "RelativeToolTip": "DemoDAL\\Repositories\\Classes\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:38:18.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DemoDAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DemoDAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:16:01.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "DemoDAL\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "DemoDAL\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:15:18.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DemoPL\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "DemoPL\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:09:49.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Models\\EntityBase.cs",
+              "RelativeDocumentMoniker": "DemoDAL\\Models\\EntityBase.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Models\\EntityBase.cs",
+              "RelativeToolTip": "DemoDAL\\Models\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:22:48.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DemoDAL\\Models\\Department.cs",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoDAL\\Models\\Department.cs",
+              "RelativeToolTip": "DemoDAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:22:26.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DemoPL\\appsettings.Development.json",
+              "ToolTip": "D:\\Backend\\Assignment\\05 ASP .NET Core MVC\\Demo\\Session05\\DemoSession05Solution\\DemoPL\\appsettings.Development.json",
+              "RelativeToolTip": "DemoPL\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T09:14:49.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
