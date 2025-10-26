@@ -1,0 +1,15 @@
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\bin\Debug\net8.0\DemoBLL.deps.json
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\bin\Debug\net8.0\DemoBLL.dll
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\bin\Debug\net8.0\DemoBLL.pdb
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\bin\Debug\net8.0\DemoDAL.dll
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\bin\Debug\net8.0\DemoDAL.pdb
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\obj\Debug\net8.0\DemoBLL.csproj.AssemblyReference.cache
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\obj\Debug\net8.0\DemoBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\obj\Debug\net8.0\DemoBLL.AssemblyInfoInputs.cache
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\obj\Debug\net8.0\DemoBLL.AssemblyInfo.cs
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\obj\Debug\net8.0\DemoBLL.csproj.CoreCompileInputs.cache
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\obj\Debug\net8.0\DemoBLL.csproj.Up2Date
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\obj\Debug\net8.0\DemoBLL.dll
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\obj\Debug\net8.0\refint\DemoBLL.dll
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\obj\Debug\net8.0\DemoBLL.pdb
+D:\Backend\Assignment\05 ASP .NET Core MVC\Demo\Session06\DemoSession06Solution\DemoBLL\obj\Debug\net8.0\ref\DemoBLL.dll
