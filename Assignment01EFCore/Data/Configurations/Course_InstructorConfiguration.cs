@@ -14,8 +14,19 @@ namespace Assignment01EFCore.Data.Configurations
         public void Configure(EntityTypeBuilder<Course_Instructor> builder)
         {
             builder.ToTable("Courses_Instructors");
-            builder.HasKey(pk => new {pk.InstructorId , pk.CourseId});
+            builder.HasKey(PK => new { PK.InstructorId, PK.CourseId });
             builder.Property(p=>p.Evaluate).HasColumnType("varchar(25)");
+
+            builder.HasOne(I=>I.instructor)
+                   .WithMany(CI=>CI.course_Instructors)
+                   .HasForeignKey(FK=>FK.InstructorId)
+                   .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasOne(C=>C.course)
+                   .WithMany(CI=>CI.instructors_course)
+                   .HasForeignKey(FK=>FK.CourseId)
+                   .OnDelete(DeleteBehavior.Restrict);
+
         }
     }
 }

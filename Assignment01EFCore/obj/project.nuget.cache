@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DorgRbnki2Y=",
+  "dgSpecHash": "Pt1Weyyfp5E=",
   "success": true,
-  "projectFilePath": "D:\\Backend\\Assignment\\04 EF Core\\Assignment01\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\Assignment01EFCore.csproj",
+  "projectFilePath": "D:\\Backend\\Assignment\\04 EF Core\\Assignment02\\AssignmentEFCore02\\Assignment02EFCoreSolution\\Assignment01EFCore\\Assignment02EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opp_2\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\opp_2\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

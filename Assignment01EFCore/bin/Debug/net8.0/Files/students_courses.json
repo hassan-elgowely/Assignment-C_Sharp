@@ -1,0 +1,57 @@
+[
+    {
+        "StudentId": 9,
+        "CourseId": 6,
+        "Grade": 25.41
+    },
+    {
+        "StudentId": 11,
+        "CourseId": 3,
+        "Grade": 95.06
+    },
+    {
+        "StudentId": 11,
+        "CourseId": 8,
+        "Grade": 69.39
+    },
+    {
+        "StudentId": 15,
+        "CourseId": 8,
+        "Grade": 53.18
+    },
+    {
+        "StudentId": 8,
+        "CourseId": 8,
+        "Grade": 50.77
+    },
+    {
+        "StudentId": 10,
+        "CourseId": 11,
+        "Grade": 75.5
+    },
+    {
+        "StudentId": 14,
+        "CourseId": 1,
+        "Grade": 92.13
+    },
+    {
+        "StudentId": 18,
+        "CourseId": 3,
+        "Grade": 95.69
+    },
+    {
+        "StudentId": 17,
+        "CourseId": 2,
+        "Grade": 51.59
+    },
+    {
+        "StudentId": 16,
+        "CourseId": 2,
+        "Grade": 61.32
+    },
+    {
+        "StudentId": 14,
+        "CourseId": 6,
+        "Grade": 77.69
+    }
+]

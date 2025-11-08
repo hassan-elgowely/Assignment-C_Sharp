@@ -15,7 +15,7 @@ namespace Assignment01EFCore.Data.Configurations
         {
             builder.ToTable("Students");
             builder.HasKey(t => t.Id);
-            builder.Property(t => t.Id).UseIdentityColumn(500, 2);
+            builder.Property(t => t.Id).UseIdentityColumn(1, 1);
             builder.Property(p => p.FirstName).HasColumnType("varchar(50)").IsRequired();
             builder.Property(p => p.LastName).HasColumnType("varchar(50)").IsRequired(false);
             builder.Property(p => p.Address).HasDefaultValue("Cairo");

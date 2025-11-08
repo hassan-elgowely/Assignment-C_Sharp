@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Backend\\Assignment\\04 EF Core\\Assignment01\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\Assignment01EFCore.csproj": {}
+    "D:\\Backend\\Assignment\\04 EF Core\\Assignment02\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\Assignment01EFCore.csproj": {}
   },
   "projects": {
-    "D:\\Backend\\Assignment\\04 EF Core\\Assignment01\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\Assignment01EFCore.csproj": {
+    "D:\\Backend\\Assignment\\04 EF Core\\Assignment02\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\Assignment01EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backend\\Assignment\\04 EF Core\\Assignment01\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\Assignment01EFCore.csproj",
+        "projectUniqueName": "D:\\Backend\\Assignment\\04 EF Core\\Assignment02\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\Assignment01EFCore.csproj",
         "projectName": "Assignment01EFCore",
-        "projectPath": "D:\\Backend\\Assignment\\04 EF Core\\Assignment01\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\Assignment01EFCore.csproj",
+        "projectPath": "D:\\Backend\\Assignment\\04 EF Core\\Assignment02\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\Assignment01EFCore.csproj",
         "packagesPath": "C:\\Users\\opp_2\\.nuget\\packages\\",
-        "outputPath": "D:\\Backend\\Assignment\\04 EF Core\\Assignment01\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\obj\\",
+        "outputPath": "D:\\Backend\\Assignment\\04 EF Core\\Assignment02\\AssignmentEFCore01\\Assignment01EFCoreSolution\\Assignment01EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

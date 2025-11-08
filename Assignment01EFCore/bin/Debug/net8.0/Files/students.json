@@ -1,0 +1,79 @@
+[
+    {
+        "FirstName": "Student1",
+        "LastName": "Omar",
+        "Address": "Alex",
+        "Age": 18,
+        "DeptId": 9
+    },
+    {
+        "FirstName": "Student2",
+        "LastName": "Sara",
+        "Address": "Aswan",
+        "Age": 25,
+        "DeptId": 10
+    },
+    {
+        "FirstName": "Student3",
+        "LastName": "Mohamed",
+        "Address": "Cairo",
+        "Age": 22,
+        "DeptId": 5
+    },
+    {
+        "FirstName": "Student4",
+        "LastName": "Sara",
+        "Address": "Giza",
+        "Age": 25,
+        "DeptId": 8
+    },
+    {
+        "FirstName": "Student5",
+        "LastName": "Mona",
+        "Address": "Tanta",
+        "Age": 22,
+        "DeptId": 9
+    },
+    {
+        "FirstName": "Student6",
+        "LastName": "Mohamed",
+        "Address": "Alex",
+        "Age": 18,
+        "DeptId": 10
+    },
+    {
+        "FirstName": "Student7",
+        "LastName": "Mona",
+        "Address": "Aswan",
+        "Age": 19,
+        "DeptId": 10
+    },
+    {
+        "FirstName": "Student8",
+        "LastName": "Ali",
+        "Address": "Alex",
+        "Age": 18,
+        "DeptId": 2
+    },
+    {
+        "FirstName": "Student9",
+        "LastName": "Mona",
+        "Address": "Alex",
+        "Age": 23,
+        "DeptId": 2
+    },
+    {
+        "FirstName": "Student10",
+        "LastName": "Mohamed",
+        "Address": "Aswan",
+        "Age": 22,
+        "DeptId": 4
+    },
+    {
+        "FirstName": "Student11",
+        "LastName": "Hassan",
+        "Address": "Cairo",
+        "Age": 18,
+        "DeptId": 4
+    }
+]

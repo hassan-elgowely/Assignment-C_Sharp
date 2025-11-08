@@ -15,11 +15,17 @@ namespace Assignment01EFCore.Data.Configurations
         {
             builder.ToTable("Courses");
             builder.HasKey(pk => pk.Id);
-            builder.Property(id=>id.Id).UseIdentityColumn(1000,10);
+            builder.Property(id=>id.Id).UseIdentityColumn(1,1);
             builder.Property(n=>n.Name).IsRequired().HasColumnType("varchar(50)");
             builder.Property(d => d.Duration).IsRequired();
             builder.Property(d => d.Description).HasColumnType("varchar(200)");
             builder.Property(fk => fk.TopId).HasColumnName("TopId_FK");
+
+            builder.HasOne(T=>T.topic)
+                   .WithMany(C=>C.courses)
+                   .HasForeignKey(FK=>FK.TopId)
+                   .OnDelete(DeleteBehavior.Restrict);
+
         }
     }
 }

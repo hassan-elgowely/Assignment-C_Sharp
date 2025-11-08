@@ -15,10 +15,13 @@ namespace Assignment01EFCore.Data.Configurations
         {
             builder.ToTable("Departments","HR");
             builder.HasKey(pk => pk.Id);
-            builder.Property(pk => pk.Id).UseIdentityColumn(10,10);
+            builder.Property(pk => pk.Id).UseIdentityColumn(1,1);
             builder.Property(n => n.Name).HasColumnType("varchar(55)").IsRequired();
             builder.Property(date => date.HiringDate).HasColumnType("date").HasAnnotation("datatype", "date");
-            builder.Property(p => p.InstructorId).HasColumnName("InstructorId_FK");
+            builder.HasMany(D=>D.students)
+                   .WithOne(S=>S.department)
+                   .HasForeignKey(FK=>FK.DeptId)
+                   .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }
